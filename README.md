@@ -46,8 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/kaviya2839/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120553351/9a67e810-7045-469d-a423-ff376b233545)
-
+![WhatsApp Image 2023-05-30 at 15 45 56](https://github.com/kaviya2839/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120553351/958e4aca-e584-4455-b542-9a17daae2209)
+![WhatsApp Image 2023-05-30 at 15 45 45](https://github.com/kaviya2839/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120553351/a73ffe3a-4618-4be0-a569-732b2575101d)
 
 ### Name: kaviya shree s
 ### Register Number: 212222110018
